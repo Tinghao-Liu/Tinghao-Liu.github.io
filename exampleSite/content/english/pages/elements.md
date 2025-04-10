@@ -26,6 +26,48 @@ Here is an example of headings. You can use this heading by the following markdo
 
 <hr>
 
+### List of Publications
+
+8. Comprehensive SCME: a nonlinear large-deformation modeling approach for general planar compliant mechanisms
+   Tinghao Liu; Guangbo Hao 
+   [Mechanism and Machine Theory]
+
+7. Precision polishing platform based on a flexure-based constant force mechanism
+   Tinghao Liu; Guangbo Hao 
+   [euspen’s 24th International Conference & Exhibition]
+
+6. Modeling compliant bistable mechanisms: An energy method based on the high-order smooth curvature model
+   Tinghao Liu; Guangbo Hao; Jiaxiang Zhu; Pongsiri Kuregsangsai; Salih Abdelaziz; Erich Wehrle
+   [International Journal of Mechanical Sciences]
+
+5. An electromagnetic vibration energy harvester with compact flexure guide for low frequency applications
+   Lujie Wang; Tinghao Liu; Guangbo Hao; Saha Chitta; Lei Liu; TinCong Ye; Zhengmin Zhang; Ningning Wang
+   [Smart Materials and Structures]
+
+4. Design of an over-constraint based nearly-constant amplification ratio compliant mechanism
+   Jiaxiang Zhu; Guangbo Hao; Tinghao Liu; Haiyang Li
+   [Mechanism and Machine Theory]
+
+3. Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism
+   Jiaxiang Zhu; Guangbo Hao; Tinghao Liu; Haiyang Li
+   [ASME IDETC-CIE 2022]
+   
+2. Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms
+   Tinghao Liu; Guangbo Hao
+   [Micromachines]
+   
+1. Design of deployable structures by using bistable compliant mechanisms
+   Tinghao Liu; Guangbo Hao
+   [Micromachines]
+
+
+
+
+
+
+
+<hr>
+
 ### Emphasis
 
 The emphasis, aka italics, with _asterisks_ or _underscores_.
@@ -78,11 +120,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 ### Ordered List
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
 
 <hr>
 
