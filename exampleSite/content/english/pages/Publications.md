@@ -35,11 +35,21 @@ draft: false
    Jiaxiang Zhu; Guangbo Hao; Tinghao Liu; Haiyang Li
    *Mechanism and Machine Theory*
 
-[3] **Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism**
-   Jiaxiang Zhu; Guangbo Hao; Tinghao Liu; Haiyang Li
-   *ASME IDETC-CIE 2022*
+[3] **Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism** <br>
+     Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc;">Tinghao Liu</span>; Haiyang Li <br>
+     *ASME IDETC-CIE 2022*
+
+[3] <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
+    </a><br>
+    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc;">Tinghao Liu</span>; Haiyang Li <br>
+     *ASME IDETC-CIE 2022*
 
 
+
+
+
+    
    
 <div style="display: flex; align-items: flex-start;">
   <div style="padding-right: 6px;">[3]</div>
