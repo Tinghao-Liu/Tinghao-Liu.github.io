@@ -28,37 +28,37 @@ Here is an example of headings. You can use this heading by the following markdo
 
 ### List of Publications
 
-8. Comprehensive SCME: a nonlinear large-deformation modeling approach for general planar compliant mechanisms
+[8] **Comprehensive SCME: a nonlinear large-deformation modeling approach for general planar compliant mechanisms**
    Tinghao Liu; Guangbo Hao 
-   [Mechanism and Machine Theory]
+   *Mechanism and Machine Theory*
 
-7. Precision polishing platform based on a flexure-based constant force mechanism
+[7] **Precision polishing platform based on a flexure-based constant force mechanism**
    Tinghao Liu; Guangbo Hao 
-   [euspen’s 24th International Conference & Exhibition]
+   *euspen’s 24th International Conference & Exhibition*
 
-6. Modeling compliant bistable mechanisms: An energy method based on the high-order smooth curvature model
+[6] **Modeling compliant bistable mechanisms: An energy method based on the high-order smooth curvature model**
    Tinghao Liu; Guangbo Hao; Jiaxiang Zhu; Pongsiri Kuregsangsai; Salih Abdelaziz; Erich Wehrle
-   [International Journal of Mechanical Sciences]
+   *International Journal of Mechanical Sciences*
 
-5. An electromagnetic vibration energy harvester with compact flexure guide for low frequency applications
+[5] **An electromagnetic vibration energy harvester with compact flexure guide for low frequency applications**
    Lujie Wang; Tinghao Liu; Guangbo Hao; Saha Chitta; Lei Liu; TinCong Ye; Zhengmin Zhang; Ningning Wang
-   [Smart Materials and Structures]
+   *Smart Materials and Structures*
 
-4. Design of an over-constraint based nearly-constant amplification ratio compliant mechanism
+[4] **Design of an over-constraint based nearly-constant amplification ratio compliant mechanism**
    Jiaxiang Zhu; Guangbo Hao; Tinghao Liu; Haiyang Li
-   [Mechanism and Machine Theory]
+   *Mechanism and Machine Theory*
 
-3. Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism
+[3] **Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism**
    Jiaxiang Zhu; Guangbo Hao; Tinghao Liu; Haiyang Li
-   [ASME IDETC-CIE 2022]
+   *ASME IDETC-CIE 2022*
    
-2. Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms
+[2] **Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms**
    Tinghao Liu; Guangbo Hao
-   [Micromachines]
+   *Micromachines*
    
-1. Design of deployable structures by using bistable compliant mechanisms
+[1] **Design of deployable structures by using bistable compliant mechanisms**
    Tinghao Liu; Guangbo Hao
-   [Micromachines]
+   *Micromachines*
 
 
 
