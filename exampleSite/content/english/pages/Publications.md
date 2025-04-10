@@ -18,18 +18,26 @@ draft: false
  
 
 
-[3] <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
+[31] <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
     </a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2a76bd;">Tinghao Liu</span>; Haiyang Li <br>
-&nbsp;&nbsp;&nbsp;&nbsp;    ASME IDETC-CIE 2022
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2a76bd;">**Tinghao Liu**</span>; Haiyang Li <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ASME IDETC-CIE 2022
 
  
     
- 
+[3] <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
+    </a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2a76bd;">**Tinghao Liu**</span>; Haiyang Li <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    ASME IDETC-CIE 2022
 
 
- 
+[3]&nbsp; <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
+    </a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2a76bd;">**Tinghao Liu**</span>; Haiyang Li <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ASME IDETC-CIE 2022
 
 
 
