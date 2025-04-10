@@ -46,46 +46,19 @@ draft: false
 &nbsp;&nbsp;&nbsp;&nbsp;    *ASME IDETC-CIE 2022*
 
 
-
-
-
-    
-   
-<div style="display: flex; align-items: flex-start;">
-  <div style="padding-right: 6px;">[3]</div>
-  <div>
-    <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
+[3] <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
     </a><br>
-    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc">Tinghao Liu</span>; Haiyang Li<br>
-    <em>ASME IDETC-CIE 2022</em>
-  </div>
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; **Tinghao Liu**; Haiyang Li <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    *ASME IDETC-CIE 2022*
 
-
-
-<div style="display: flex; align-items: flex-start;">
-  <div style="padding-right: 6px;">[2]</div>
-  <div>
-    <a href="https://doi.org/10.3390/mi13081275" target="_blank" style="text-decoration:none; color:black;">
-      <strong>Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms</strong>
+[3] <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
     </a><br>
-    <span style="color:#2d80cc">Tinghao Liu</span>; Guangbo Hao<br>
-    <em>Micromachines</em>
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: flex-start;">
-  <div style="padding-right: 6px;"><span style="color:text_color"> [1] </span> </div>
-  <div>
-    <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none; color:black;">
-      <strong>Design of deployable structures by using bistable compliant mechanisms</strong>
-    </a><br>
-    <span style="color:#2d80cc">Tinghao Liu</span> <span style="color:text_color">; Guangbo Hao</span><br>
-    <span style="color:text_color"> <em>Micromachines</em> </span>
-  </div>
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;    *Jiaxiang Zhu; Guangbo Hao; **Tinghao Liu**; Haiyang Li* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    *ASME IDETC-CIE 2022*
+    
+ 
 
 
  
