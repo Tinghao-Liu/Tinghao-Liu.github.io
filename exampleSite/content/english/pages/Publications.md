@@ -42,8 +42,8 @@ draft: false
 [3] <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
     </a><br>
-    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc;">Tinghao Liu</span>; Haiyang Li <br>
-     *ASME IDETC-CIE 2022*
+&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc;">Tinghao Liu</span>; Haiyang Li <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    *ASME IDETC-CIE 2022*
 
 
 
