@@ -15,53 +15,26 @@ draft: false
 ###### The following is a list of publications arising from my research work. For each entry, clicking on the paper title will redirect you to the official online version of the publication for more details.
 
 
-[8] **Comprehensive SCME: a nonlinear large-deformation modeling approach for general planar compliant mechanisms**
-   Tinghao Liu; Guangbo Hao 
-   *Mechanism and Machine Theory*
-
-[7] **Precision polishing platform based on a flexure-based constant force mechanism**
-   Tinghao Liu; Guangbo Hao 
-   *euspen’s 24th International Conference & Exhibition*
-
-[6] **Modeling compliant bistable mechanisms: An energy method based on the high-order smooth curvature model**
-   Tinghao Liu; Guangbo Hao; Jiaxiang Zhu; Pongsiri Kuregsangsai; Salih Abdelaziz; Erich Wehrle
-   *International Journal of Mechanical Sciences*
-
-[5] **An electromagnetic vibration energy harvester with compact flexure guide for low frequency applications**
-   Lujie Wang; Tinghao Liu; Guangbo Hao; Saha Chitta; Lei Liu; TinCong Ye; Zhengmin Zhang; Ningning Wang
-   *Smart Materials and Structures*
-
-[4] **Design of an over-constraint based nearly-constant amplification ratio compliant mechanism**
-   Jiaxiang Zhu; Guangbo Hao; Tinghao Liu; Haiyang Li
-   *Mechanism and Machine Theory*
-
-[3] **Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism** <br>
-     Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc;">Tinghao Liu</span>; Haiyang Li <br>
-     *ASME IDETC-CIE 2022*
-
-[3] <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
-      <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
-    </a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc;">Tinghao Liu</span>; Haiyang Li <br>
-&nbsp;&nbsp;&nbsp;&nbsp;    *ASME IDETC-CIE 2022*
+ 
 
 
 [3] <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
     </a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; **Tinghao Liu**; Haiyang Li <br>
-&nbsp;&nbsp;&nbsp;&nbsp;    *ASME IDETC-CIE 2022*
+&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2a76bd;">Tinghao Liu</span>; Haiyang Li <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    ASME IDETC-CIE 2022
 
-[3] <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
-      <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
-    </a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;    *Jiaxiang Zhu; Guangbo Hao; **Tinghao Liu**; Haiyang Li* <br>
-&nbsp;&nbsp;&nbsp;&nbsp;    *ASME IDETC-CIE 2022*
+ 
     
  
 
 
  
+
+
+
+
+
 
  
  
