@@ -56,16 +56,17 @@ Here is an example of headings. You can use this heading by the following markdo
    Tinghao Liu; Guangbo Hao
    *Micromachines*
  
-<table>
+<table style="border-collapse:collapse; border:none;">
   <tr>
-    <td valign="top">[8]</td>
-    <td>
+    <td valign="top" style="padding-right:6px;">[8]</td>
+    <td style="border:none; padding:0;">
       <strong>Design of deployable structures by using bistable compliant mechanisms</strong><br>
-      <span style="color:#1f4e79">Tinghao Liu</span>; Guangbo Hao<br>
+      <span style="color:#2d80cc">Tinghao Liu</span>; Guangbo Hao<br>
       <em>Mechanism and Machine Theory</em>
     </td>
   </tr>
 </table>
+
 
 
 
