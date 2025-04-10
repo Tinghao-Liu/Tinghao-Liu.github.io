@@ -18,21 +18,21 @@ draft: false
  
 
 
-[3] &nbsp; <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
+(3) &nbsp; <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
     </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Haiyang Li <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ASME IDETC-CIE 2022
 
   
-[2] &nbsp; <a href="https://doi.org/10.3390/mi13081275" target="_blank" style="text-decoration:none; color:black;">
+(2) &nbsp; <a href="https://doi.org/10.3390/mi13081275" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms</strong>
     </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Micromachines
 
 
-[1] &nbsp; <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none; color:black;">
+(1) &nbsp; <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design of deployable structures by using bistable compliant mechanisms</strong>
     </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao <br>
@@ -42,21 +42,7 @@ draft: false
 
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 14px;">
-  <div style="padding-right: 8px;">[1]</div>
-  <div>
-    <a href="LINK_HERE" target="_blank" style="text-decoration:none; color:black;">
-      <strong>TITLE_HERE</strong>
-    </a><br>
-    <span style="color:#4da3ff; font-weight: bold;">Tinghao Liu</span>; Other Authors<br>
-    <span><em>Journal Name</em></span>
-  </div>
-</div>
-
-
-
-
- 
+<hr>
 
 
 {{< toc >}}
