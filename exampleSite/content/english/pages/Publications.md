@@ -14,25 +14,58 @@ draft: false
  
 ###### The following is a list of publications arising from my research work. For each entry, clicking on the paper title will redirect you to the official online version of the publication for more details.
 
+8) &nbsp; <a href="" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Comprehensive SCME: a nonlinear large-deformation modeling approach for general planar compliant mechanisms (under review)</strong>
+    </a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao^*^ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Mechanism and Machine Theory
 
+
+7) &nbsp; <a href="https://www.euspen.eu/knowledge-base/ICE24295.pdf" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Precision polishing platform based on a flexure-based constant force mechanism</strong>
+    </a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    euspen’s 24th International Conference & Exhibition
+
+
+
+6) &nbsp; <a href="https://doi.org/10.1016/j.ijmecsci.2024.109315" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Modeling compliant bistable mechanisms: An energy method based on the high-order smooth curvature model</strong>
+    </a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao; Jiaxiang Zhu; Pongsiri Kuregsangsai; Salih Abdelaziz; Erich Wehrle <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    International Journal of Mechanical Sciences
+
+
+5) &nbsp; <a href="https://doi.org/10.1088/1361-665X/ad1429" target="_blank" style="text-decoration:none; color:black;">
+      <strong>An electromagnetic vibration energy harvester with compact flexure guide for low frequency applications</strong>
+    </a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Lujie Wang; <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao; Saha Chitta; Lei Liu; TinCong Ye; Zhengmin Zhang; Ningning Wang <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Smart Materials and Structures
+
+
+4) &nbsp; <a href="https://doi.org/10.1016/j.mechmachtheory.2023.105347" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Design of an over-constraint based nearly-constant amplification ratio compliant mechanism</strong>
+    </a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Haiyang Li <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Mechanism and Machine Theory
  
 
 
-(3) &nbsp; <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
+3) &nbsp; <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
     </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Haiyang Li <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ASME IDETC-CIE 2022
 
   
-(2) &nbsp; <a href="https://doi.org/10.3390/mi13081275" target="_blank" style="text-decoration:none; color:black;">
+2) &nbsp; <a href="https://doi.org/10.3390/mi13081275" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms</strong>
     </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Micromachines
 
 
-(1) &nbsp; <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none; color:black;">
+1) &nbsp; <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design of deployable structures by using bistable compliant mechanisms</strong>
     </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao <br>
