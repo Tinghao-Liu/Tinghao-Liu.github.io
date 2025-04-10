@@ -28,6 +28,9 @@ Here is an example of headings. You can use this heading by the following markdo
 
 ### List of Publications
 
+###### The following is a list of publications arising from my research work. For each entry, clicking on the paper title will redirect you to the official online version of the publication for more details.
+
+
 [8] **Comprehensive SCME: a nonlinear large-deformation modeling approach for general planar compliant mechanisms**
    Tinghao Liu; Guangbo Hao 
    *Mechanism and Machine Theory*
@@ -55,20 +58,34 @@ Here is an example of headings. You can use this heading by the following markdo
 [2] **Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms**
    Tinghao Liu; Guangbo Hao
    *Micromachines*
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="padding-right: 6px;">[2]</div>
+  <div>
+    <strong>
+      <a href="https://doi.org/10.3390/mi13081275" target="_blank" style="text-decoration:none; color:black;">
+        Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms
+      </a>
+    </strong><br>
+    <span style="color:#2d80cc">Tinghao Liu</span>; Guangbo Hao<br>
+    <em>Micromachines</em>
+  </div>
+</div>
+
  
 <div style="display: flex; align-items: flex-start;">
   <div style="padding-right: 6px;">[1]</div>
   <div>
-    <strong>Design of deployable structures by using bistable compliant mechanisms</strong><br>
+    <strong>
+      <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none; color:black;">
+        Design of deployable structures by using bistable compliant mechanisms
+      </a>
+    </strong><br>
     <span style="color:#2d80cc">Tinghao Liu</span>; Guangbo Hao<br>
-    <em>Mechanism and Machine Theory</em>
+    <em>Micromachines</em>
   </div>
 </div>
 
-
-[1] **Design of deployable structures by using bistable compliant mechanisms**<br>
-  <span style="color:#2d80cc">Tinghao Liu</span>; Guangbo Hao<br>
-  *Mechanism and Machine Theory*
 
 
 
