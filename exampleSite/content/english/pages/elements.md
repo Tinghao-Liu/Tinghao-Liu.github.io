@@ -55,10 +55,17 @@ Here is an example of headings. You can use this heading by the following markdo
 [2] **Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms**
    Tinghao Liu; Guangbo Hao
    *Micromachines*
-   
-[1] **Design of deployable structures by using bistable compliant mechanisms**
-   Tinghao Liu; Guangbo Hao
-   *Micromachines*
+ 
+<table>
+  <tr>
+    <td valign="top">[8]</td>
+    <td>
+      <strong>Design of deployable structures by using bistable compliant mechanisms</strong><br>
+      <span style="color:#1f4e79">Tinghao Liu</span>; Guangbo Hao<br>
+      <em>Mechanism and Machine Theory</em>
+    </td>
+  </tr>
+</table>
 
 
 
