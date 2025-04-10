@@ -78,8 +78,7 @@ draft: false
 </div>
 
 
- 
- <div style="display: flex; align-items: flex-start;">
+  
   <div style="padding-right: 6px;">[1]</div>
   <div>
     <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none; color:black;">
@@ -88,19 +87,9 @@ draft: false
     <span style="color:#2d80cc">Tinghao Liu</span>; Guangbo Hao<br>
     <em>Micromachines</em>
   </div>
-</div>
+ 
 
-
-<div style="display: flex; align-items: flex-start;">
-  <div style="padding-right: 6px;"><span style="display:inline;">[1]</span></div>
-  <div>
-    <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none;">
-      <strong>Design of deployable structures by using bistable compliant mechanisms</strong>
-    </a><br>
-    <span style="color:#2d80cc">Tinghao Liu</span><span style="display:inline;">; Guangbo Hao</span><br>
-    <span style="display:inline;"><em>Micromachines</em></span>
-  </div>
-</div>
+ 
 
 
 
