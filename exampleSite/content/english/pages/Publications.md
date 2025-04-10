@@ -78,10 +78,11 @@ draft: false
 </div>
 
 
-<div style="display: flex; align-items: flex-start;">
+ 
+ <div style="display: flex; align-items: flex-start;">
   <div style="padding-right: 6px;">[1]</div>
   <div>
-    <a href="https://doi.org/10.3390/mi13050651" target="_blank">
+    <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none; color:black;">
       <strong>Design of deployable structures by using bistable compliant mechanisms</strong>
     </a><br>
     <span style="color:#2d80cc">Tinghao Liu</span>; Guangbo Hao<br>
@@ -90,9 +91,11 @@ draft: false
 </div>
 
 
-
- 
-
+<a href="..." style="text-decoration:none;">
+  <strong>Title</strong>
+</a><br>
+Author A; Author B<br>
+<em>Journal</em>
 
 
 
