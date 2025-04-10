@@ -1,33 +1,17 @@
 ---
-title: "Elements"
+title: "Publications"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "The following is a list of publications arising from my research work."
 # save as draft
 draft: false
 ---
 
-{{< toc >}}
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
 
 <hr>
-
-### List of Publications
-
+ 
 ###### The following is a list of publications arising from my research work. For each entry, clicking on the paper title will redirect you to the official online version of the publication for more details.
 
 
@@ -54,43 +38,69 @@ Here is an example of headings. You can use this heading by the following markdo
 [3] **Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism**
    Jiaxiang Zhu; Guangbo Hao; Tinghao Liu; Haiyang Li
    *ASME IDETC-CIE 2022*
+
+
    
-[2] **Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms**
-   Tinghao Liu; Guangbo Hao
-   *Micromachines*
+<div style="display: flex; align-items: flex-start;">
+  <div style="padding-right: 6px;">[3]</div>
+  <div>
+    <a href="https://doi.org/10.1115/DETC2022-89555" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Design and Nonlinear Analysis of an Overconstraint Based Constant Amplification Ration Compliant Mechanism</strong>
+    </a><br>
+    Jiaxiang Zhu; Guangbo Hao; <span style="color:#2d80cc">Tinghao Liu</span>; Haiyang Li<br>
+    <em>Micromachines</em>
+  </div>
+</div>
+
+
 
 <div style="display: flex; align-items: flex-start;">
   <div style="padding-right: 6px;">[2]</div>
   <div>
-    <strong>
-      <a href="https://doi.org/10.3390/mi13081275" target="_blank" style="text-decoration:none; color:black;">
-        Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms
-      </a>
-    </strong><br>
+    <a href="https://doi.org/10.3390/mi13081275" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Design of a Cylindrical Compliant Linear Guide with Decoupling Parallelogram Mechanisms</strong>
+    </a><br>
     <span style="color:#2d80cc">Tinghao Liu</span>; Guangbo Hao<br>
     <em>Micromachines</em>
   </div>
 </div>
 
- 
+
 <div style="display: flex; align-items: flex-start;">
   <div style="padding-right: 6px;">[1]</div>
   <div>
-    <strong>
-      <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none; color:black;">
-        Design of deployable structures by using bistable compliant mechanisms
-      </a>
-    </strong><br>
+    <a href="https://doi.org/10.3390/mi13050651" target="_blank" style="text-decoration:none; color:black;">
+      <strong>Design of deployable structures by using bistable compliant mechanisms</strong>
+    </a><br>
     <span style="color:#2d80cc">Tinghao Liu</span>; Guangbo Hao<br>
     <em>Micromachines</em>
   </div>
 </div>
 
 
+ 
 
 
 
 
+  
+
+
+{{< toc >}}
+
+Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
 
 
 
