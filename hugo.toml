@@ -46,6 +46,9 @@ enable = true
 source = 'assets/notwatching/hugo_stats\.json'
 target = 'css'
 
+
+ignoreVendorTimes = true
+
 ############################# Modules ############################
 [module]
 [[module.mounts]]

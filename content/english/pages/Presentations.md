@@ -20,14 +20,14 @@ draft: false
         <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao* <br> 
         euspen’s 24th International Conference & Exhibition
         2024 <br>
-      </li>    <br>
+      </li>    
  
   <li>  <strong> Model-based design and optimization of compliant mechanisms </strong> <br> 
         [oral presentation] <br>
         <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao* <br> 
         The 2nd Forum for Ireland-China PhD Students
         2023
-      </li>    <br>
+      </li>    
 
   <li>  <strong> Model-based design and optimization of compliant zero-force mechanism    
         derived from two bistable mechanisms </strong> <br>  
@@ -35,6 +35,6 @@ draft: false
         <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao* <br> 
         The 15th World Congress of Structural and Multidisciplinary Optimization
         2023
-      </li>     <br> 
+      </li>     
  
 </ol> 
