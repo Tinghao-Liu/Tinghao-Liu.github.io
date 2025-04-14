@@ -1,0 +1,56 @@
+{
+  "name": "Tinghao Liu | Research Homepage",
+  "short_name": "Tinghao Liu | Research Homepage",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "/?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#000",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hu_1e06cd43e72ee1a8.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_3d79703c7a35bb92.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_6c6c2976d1bc0a99.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_370c5495d57e4a3a.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_30ffd1e39c9d282.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon_hu_7cb58fcbbcc35c27.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}
