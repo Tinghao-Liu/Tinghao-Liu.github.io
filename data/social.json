@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "google scholar",
+      "icon": "fa-brands fa-google-scholar",
+      "link": "https://scholar.google.com/citations?user=rtMGl9UAAAAJ&hl"
+    }, 
+    {
+      "name": "Research Gate",
+      "icon": "fa-brands fa-researchgate",
+      "link": "https://www.researchgate.net/profile/Tinghao-Liu-2"
+    }, 
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/Tinghao-Liu"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://ie.linkedin.com/in/tinghao-liu-7995921a7"
+    }
+  ]
+}  

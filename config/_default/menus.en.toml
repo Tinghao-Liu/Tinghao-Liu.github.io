@@ -1,0 +1,53 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Biography"
+url = "/Biography"
+weight = 2
+
+[[main]]
+name = "News"
+url = "/News"
+weight = 3
+
+[[main]]
+name = "Publications"
+url = "/Publications"
+weight = 4
+ 
+
+[[main]]
+name = "Awards"
+url = "/Awards"
+weight = 5
+
+[[main]]
+name = "Projects"
+url = "/Projects"
+weight = 6
+
+[[main]]
+name = "Presentations"
+url = "/Presentations"
+weight = 7
+
+
+
+#[[main]]
+#parent = "Pages"
+#name = "Blog"
+#url = "/blog"
+ 
+# footer menu
+ 
+ 
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 1
