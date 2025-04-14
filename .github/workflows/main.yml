@@ -33,13 +33,14 @@ jobs:
     steps:
       - name: Install Hugo
         run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-arm64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
+          sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
       - name: Install Go
         run: |
-          wget -O ${{ runner.temp }}/go.deb https://dl.google.com/go/go${GO_VERSION}.linux-amd64.tar.gz \
-          && sudo tar -C /usr/local -xzf ${{ runner.temp }}/go.deb
+          wget -O ${{ runner.temp }}/go.tar.gz https://dl.google.com/go/go${GO_VERSION}.linux-amd64.tar.gz
+          sudo tar -C /usr/local -xzf ${{ runner.temp }}/go.tar.gz
+          echo "/usr/local/go/bin" >> $GITHUB_PATH
 
       - name: Checkout
         uses: actions/checkout@v4.2.2
@@ -70,7 +71,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-24.04-arm
+    runs-on: ubuntu-24.04  # ✅ 改回 amd64 架构，确保 Pages 部署正常
     needs: build
     steps:
       - name: Deploy to GitHub Pages
