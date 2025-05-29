@@ -18,7 +18,8 @@ The following is a list of publications arising from my research work. For each 
  
 
 <ol reversed>
-  <li><a href="https://doi.org/10.1016/j.mechmachtheory.2025.106070" target="_blank" style="text-decoration:none; color:black;">
+  <li><a href="https://doi.org/10.1016/j.mechmachtheory.2025.106070" target="_blank" 
+      style="text-decoration:none; color:black;">
       <strong>Comprehensive SCME: a nonlinear large-deformation modeling approach for general planar compliant mechanisms</strong>
       </a><br> 
       <span style="color:#2d80cc; font-weight: bold;">Tinghao Liu</span>; Guangbo Hao* <br>
