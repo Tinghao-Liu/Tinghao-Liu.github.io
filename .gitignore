@@ -15,3 +15,8 @@ jsconfig.json
 hugo_stats.json
 go.sum
 yarn.lock
+
+# Local website backups and macOS metadata
+backups/
+._*
+*.log
