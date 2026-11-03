@@ -504,6 +504,12 @@ const COLOR_STUDIO_PALETTES=[{"id": "sea", "name": "海盐青", "mood": "清透 
 @media(max-width:1100px){#main .view:not(#v-overview) .about{grid-template-columns:1fr}#main .view:not(#v-overview) .tl{border-top:1px solid var(--line-2);padding-top:28px}}
 @media(max-width:860px){#main .view:not(#v-overview) .hcard{padding:24px 0}#main .view:not(#v-overview) .list .row{padding:20px 0}#main .view:not(#v-overview) .about{gap:28px}}
 </style>
+<style id="open-page-frame">
+/* Open the outer canvas while retaining the existing academic layout. */
+#shell,#shell.hide-side{inset:0;padding:0;border:0;border-radius:0;box-shadow:none;backdrop-filter:none;-webkit-backdrop-filter:none}
+#main{border-radius:0;box-shadow:none}
+@media(max-width:860px){#shell.hide-side .side{box-shadow:none}}
+</style>
 </head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
@@ -647,7 +653,7 @@ const COLOR_STUDIO_PALETTES=[{"id": "sea", "name": "海盐青", "mood": "清透 
         <div class="filters" id="filters"><button class="chip on" data-f="all">All</button><button class="chip" data-f="journal">Journal</button><button class="chip" data-f="conference">Conference</button><button class="chip" data-f="first">First author</button><button class="chip" data-f="corresponding">Corresponding author</button></div>
         <div class="card list pubs" id="pubList">
           <!-- EDIT: one .row per paper. data-type = journal|conference, data-first = 1 if first author; data-corresponding = 1 if Tinghao Liu is a corresponding author -->
-          <a class="row" href="https://doi.org/10.1016/j.mechmachtheory.2026.106647" target="_blank" rel="noopener" data-type="journal" data-first="1" data-status="published"><span class="ic" title="Journal paper"><svg viewBox="0 0 24 24"><use href="#i-journal"/></svg></span><div><div class="t">Nonlinear large-deflection kinetostatic modeling of planar distributed-compliance beams: A method review and selection framework</div><div class="s"><b>Tinghao Liu</b>, Guangbo Hao* · 231, 106647</div></div><span class="v">Mechanism and Machine Theory</span><span class="yr">2026</span></a>
+          <a class="row" href="https://doi.org/10.1016/j.mechmachtheory.2026.106647" target="_blank" rel="noopener" data-type="journal" data-first="1" data-status="published"><span class="ic" title="Journal paper"><svg viewBox="0 0 24 24"><use href="#i-journal"/></svg></span><div><div class="t">Nonlinear large-deflection kinetostatic modeling of planar distributed-compliance beams: A method review and selection framework</div><div class="s"><b>Tinghao Liu</b>, Guangbo Hao*</div></div><span class="v">Mechanism and Machine Theory</span><span class="yr">2026</span></a>
           <a class="row" href="https://doi.org/10.1016/j.mechmachtheory.2025.106338" target="_blank" rel="noopener" data-type="journal" data-first="1"><span class="ic" title="Journal paper"><svg viewBox="0 0 24 24"><use href="#i-journal"/></svg></span><div><div class="t">A bi-level geometrical optimization framework for tailoring kinetostatic behavior of compliant bistable mechanisms</div><div class="s"><b>Tinghao Liu</b>, Ming Zhou, Guangbo Hao*</div></div><span class="v">Mechanism and Machine Theory</span><span class="yr">2026</span></a>
           <a class="row" href="https://doi.org/10.1016/j.mechmachtheory.2025.106070" target="_blank" rel="noopener" data-type="journal" data-first="1"><span class="ic" title="Journal paper"><svg viewBox="0 0 24 24"><use href="#i-journal"/></svg></span><div><div class="t">Comprehensive SCME: a nonlinear large-deformation modeling approach for planar compliant mechanisms</div><div class="s"><b>Tinghao Liu</b>, Guangbo Hao*</div></div><span class="v">Mechanism and Machine Theory</span><span class="yr">2025</span></a>
           <a class="row" href="https://doi.org/10.1016/j.ijmecsci.2024.109315" target="_blank" rel="noopener" data-type="journal" data-first="1"><span class="ic" title="Journal paper"><svg viewBox="0 0 24 24"><use href="#i-journal"/></svg></span><div><div class="t">Modeling compliant bistable mechanisms: An energy method based on the high-order smooth curvature model</div><div class="s"><b>Tinghao Liu</b>, Guangbo Hao*, Jiaxiang Zhu, Pongsiri Kuresangsai, Salih Abdelaziz, Erich Wehrle</div></div><span class="v">International Journal of Mechanical Sciences</span><span class="yr">2024</span></a>
